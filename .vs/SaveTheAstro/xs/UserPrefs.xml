@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{EB7BF6A9-C246-A784-AF12-23C35D2C34CC}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Codes/GameControlScripts/SceneControl.cs">
+    <Files>
+      <File FileName="Assets/Codes/PlaySceneScripts/RocketMovement.cs" Line="32" Column="20" />
+      <File FileName="Assets/Codes/PlaySceneScripts/AstroScoreControl.cs" Line="77" Column="9" />
+      <File FileName="Assets/Codes/GameControlScripts/SceneControl.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SaveTheAstro" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="94c38aaa-e9d3-45a4-a0b3-32ac7da26c8f" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
